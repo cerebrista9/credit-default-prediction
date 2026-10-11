@@ -1,0 +1,4 @@
+model,roc_auc
+CatBoost,0.7502329902562868
+Logistic Regression,0.7266776787777143
+Random Forest,0.7070292597697411
