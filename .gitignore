@@ -1,8 +1,12 @@
 # Data
 data/
-*.csv
 *.parquet
 *.zip
+
+# Models and training artifacts
+models/
+*.cbm
+*.cbsnapshot
 
 # Jupyter
 .ipynb_checkpoints/
